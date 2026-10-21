@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">荣耀电视轻量桌面</string>
+    <string name="all_apps">全部应用</string>
+    <string name="mem_format">可用内存 %1$d / %2$d MB</string>
+    <string name="mem_unknown">内存状态不可用</string>
+    <string name="no_apps">未检测到可启动的应用</string>
+    <string name="cannot_launch">无法启动该应用</string>
+</resources>
